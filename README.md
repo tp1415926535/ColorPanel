@@ -1,5 +1,5 @@
 # 调色板（ColorPanel）
-   
+![程序界面](https://github.com/tp1415926535/ColorPanel/raw/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%E4%B8%BB%E7%95%8C%E9%9D%A2.png)   
 
 集调色、取色、配色、转格式等功能为一体的工具。   
    
@@ -11,6 +11,7 @@
    
 **功能**   
 -   
+![功能介绍](https://github.com/tp1415926535/ColorPanel/raw/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%E5%8A%9F%E8%83%BD%E4%B8%80%E6%A0%8F.png)
 - **调色**  
 任意调节RGB、HSB、CMYK、Hex格式的**滑块**或**输入**数值，并同时实时显示在界面内。    
 各种格式的颜色都可以一键复制/粘贴。   
@@ -35,6 +36,8 @@
 - **窗体**   
 **主题色**有亮、暗两种。   
 窗体**置顶**/取消置顶。   
+   
+![主题样式](https://github.com/tp1415926535/ColorPanel/raw/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%E4%B8%BB%E9%A2%98.jpg)
    
 **开发**   
 -   
