@@ -3,9 +3,9 @@
 
 集调色、取色、配色、转格式等功能为一体的工具。   
    
-**下载地址[v1.0]**   
-- 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E8%B0%83%E8%89%B2%E6%9D%BFv1.0.rar)   
-- 地址2：[蓝奏云](https://wws.lanzous.com/iQJDIhq4gxg)    
+**下载地址[v1.1]**   
+- 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E8%B0%83%E8%89%B2%E6%9D%BFv1.1.rar)   
+- 地址2：[蓝奏云](https://wws.lanzous.com/igkKKhqi2yh)    
    
 下载后解压即可使用，运行“**调色板.exe**”开始。   
      
@@ -41,5 +41,11 @@
    
 **开发**   
 -   
+**人员**   
 墨隐城风   
+   
+**历史版本**   
+- v1.1 2020/10/25 增加对缩放拉伸屏幕的适应，增加了瞬间取图功能；微调了取色点位置；修改了主题色切换图标。   
+- v1.0 2020/10/25 调色取色配色等基本功能全部实现。   
+    
 【可以直接在该项目的Issues发表建议】   
