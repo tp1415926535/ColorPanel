@@ -7,7 +7,7 @@
 - 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E8%B0%83%E8%89%B2%E6%9D%BFv1.1.rar)   
 - 地址2：[蓝奏云](https://wws.lanzous.com/igkKKhqi2yh)    
    
-下载后解压即可使用，运行“**调色板.exe**”开始。   
+下载后解压即可使用，运行“**调色板.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
      
 **功能**   
 -   
