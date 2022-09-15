@@ -1,5 +1,6 @@
 # 调色板（ColorPanel）
-![程序界面](https://github.com/tp1415926535/ColorPanel/raw/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%E4%B8%BB%E7%95%8C%E9%9D%A2.png)   
+![程序界面](https://github.com/tp1415926535/ColorPanel/blob/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%20%E4%BA%AE%E4%B8%BB%E9%A2%98.png)
+![程序界面 暗主题](https://github.com/tp1415926535/ColorPanel/blob/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%20%E6%9A%97%E4%B8%BB%E9%A2%98.png)     
 
 集调色、取色、配色、转格式等功能为一体的工具。   
    
@@ -37,7 +38,6 @@
 **主题色**有亮、暗两种。   
 窗体**置顶**/取消置顶。   
    
-![主题样式](https://github.com/tp1415926535/ColorPanel/raw/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%E4%B8%BB%E9%A2%98.jpg)
    
 **开发**   
 -   
