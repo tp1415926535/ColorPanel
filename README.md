@@ -1,14 +1,14 @@
-# 调色板（ColorPanel）
+# 彩盘（ColorPanel）
 ![程序界面](https://github.com/tp1415926535/ColorPanel/blob/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%20%E4%BA%AE%E4%B8%BB%E9%A2%98.png)
 ![程序界面 暗主题](https://github.com/tp1415926535/ColorPanel/blob/main/%E6%88%AA%E5%9B%BE/%E8%B0%83%E8%89%B2%E6%9D%BF%20%E6%9A%97%E4%B8%BB%E9%A2%98.png)     
 
 集调色、取色、配色、转格式等功能为一体的工具。   
    
-**下载地址[v2.0.0.1]**   
-- 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E8%B0%83%E8%89%B2%E6%9D%BFv2.0.0.1.zip)   
-- 地址2：[蓝奏云](https://wwp.lanzouw.com/iUtAQ0bt5irg)    
+**下载地址[v2.0.0.2]**   
+- 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E5%BD%A9%E7%9B%98v2.0.0.2.zip)   
+- 地址2：[蓝奏云](https://wwp.lanzouw.com/i0VKq0bu1c0f)    
    
-下载后解压即可使用，运行“**调色板.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
+下载后解压即可使用，运行“**彩盘.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
      
 **功能**   
 -   
@@ -45,6 +45,7 @@
 纵码过河山   
    
 **历史版本**    
+- v2.0.0.2 2022/09/17 修复快捷键提示不更新；修复其他软件占用剪切板导致复制闪退；更改程序名调色板→彩盘
 - v2.0.0.1 2022/09/15 完善快捷键录入方式；适配不同缩放比例；增加启动时隐藏选项。
 - v2.0.0.0 2022/09/14 重构代码，优化结构和界面；增加HSL调色；支持设置快捷键、开机自启、关闭模式；增加窗体形态变化。  
 - v1.3 2021/05/13 优化部分代码，提高性能减少计算；提升放大倍数至500%。   
