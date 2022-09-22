@@ -6,7 +6,7 @@
    
 **下载地址[v2.0.0.3]**   
 - 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E5%BD%A9%E7%9B%98v2.0.0.3.zip)   
-- 地址2：[蓝奏云](https://wwp.lanzouw.com/iGMTK0c41kmf)    
+- 地址2：[蓝奏云](https://wwp.lanzouw.com/iz3LK0c6jtwj)    
    
 下载后解压即可使用，运行“**彩盘.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
      
