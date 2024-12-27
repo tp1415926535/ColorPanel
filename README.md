@@ -6,8 +6,8 @@
    
 **下载地址[v3.0.0.0]**   
 - 地址1：[Github-依赖.NET6.0](https://github.com/tp1415926535/ColorPanel/blob/main/%E5%BD%A9%E7%9B%98v3.0.0.0-%E4%BE%9D%E8%B5%96.NET6.0.zip)   
-- 地址2：[蓝奏云]-独立(https://wwvr.lanzn.com/igOtt2j5gq4d)
-- 地址3：[蓝奏云-依赖.NET6.0](https://wwvr.lanzn.com/iNURt2j5gq6f)    
+- 地址2：[蓝奏云-独立](https://wwvr.lanzn.com/iBuXN2j75x2j)
+- 地址3：[蓝奏云-依赖.NET6.0](https://wwvr.lanzn.com/iMn272j75x3a)    
    
 下载后解压即可使用，运行“**彩盘.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
      
