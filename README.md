@@ -4,9 +4,10 @@
 
 集调色、取色、配色、转格式等功能为一体的工具。   
    
-**下载地址[v2.0.0.5]**   
-- 地址1：[Github](https://github.com/tp1415926535/ColorPanel/raw/main/%E5%BD%A9%E7%9B%98v2.0.0.5.zip)   
-- 地址2：[蓝奏云](https://wwp.lanzouw.com/icGZS0e4gjyd)    
+**下载地址[v3.0.0.0]**   
+- 地址1：[Github-依赖.NET6.0](https://github.com/tp1415926535/ColorPanel/blob/main/%E5%BD%A9%E7%9B%98v3.0.0.0-%E4%BE%9D%E8%B5%96.NET6.0.zip)   
+- 地址2：[蓝奏云]-独立(https://wwvr.lanzn.com/igOtt2j5gq4d)
+- 地址3：[蓝奏云-依赖.NET6.0](https://wwvr.lanzn.com/iNURt2j5gq6f)    
    
 下载后解压即可使用，运行“**彩盘.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
      
@@ -45,6 +46,7 @@
 纵码过河山   
    
 **历史版本**    
+- v3.0.0.0 2024/12/27 代码结构优化重构，框架升级至.Net6.0，精简代码，增加可读性和可维护性；按钮悬停样式外观改良；绑定逻辑优化，色域和HEX顺序调整；
 - v2.0.0.5 2022/10/18 在HSV滑块基础上增加HSV域调色；修复HSL域配置不能保存的问题。
 - v2.0.0.4 2022/10/16 移除冗余代码；在HSL滑块基础上增加HSL域调色；HSL亮度滑块增加中间色；除了快捷键，增加鼠标中键取色功能。
 - v2.0.0.3 2022/09/21 新增到八个颜色空间，支持LAB,XYZ,LUV格式，可选择性显示；增加颜色空间标题提示。
