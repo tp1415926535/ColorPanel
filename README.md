@@ -4,10 +4,9 @@
 
 集调色、取色、配色、转格式等功能为一体的工具。   
    
-**下载地址[v3.0.1.0]**   
-- 地址1：[Github-依赖.NET6.0](https://github.com/tp1415926535/ColorPanel/blob/main/%E5%BD%A9%E7%9B%98v3.0.1.0-%E4%BE%9D%E8%B5%96.NET6.0.zip)   
-- 地址2：[蓝奏云-独立](https://wwvr.lanzn.com/i1hic2kudmsb)
-- 地址3：[蓝奏云-依赖.NET6.0](https://wwvr.lanzn.com/irG222kudmve)    
+**下载地址[v3.1.0.0]**   
+- 地址1：[Github](https://github.com/tp1415926535/ColorPanel/blob/main/%E5%BD%A9%E7%9B%98v3.1.0.0.zip)   
+- 地址2：[蓝奏云](https://wwvr.lanzn.com/i4f0w2rrjklc)
    
 下载后解压即可使用，运行“**彩盘.exe**”开始。*[查看历史版本](https://github.com/tp1415926535/ColorPanel#%E5%BC%80%E5%8F%91)*   
      
@@ -46,6 +45,7 @@
 纵码过河山   
    
 **历史版本**    
+- v3.1.0.0 2025/3/27 发布包回归.net Framework4.72框架编译，无需额外安装；修复了hex无法直接编辑的问题
 - v3.0.1.0 2025/1/13 增加透明度调节功能
 - v3.0.0.0 2024/12/27 代码结构优化重构，框架升级至.Net6.0，精简代码，增加可读性和可维护性；按钮悬停样式外观改良；绑定逻辑优化，色域和HEX顺序调整；
 - v2.0.0.5 2022/10/18 在HSV滑块基础上增加HSV域调色；修复HSL域配置不能保存的问题。
